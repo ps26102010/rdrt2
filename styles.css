@@ -3,8 +3,8 @@ body {
     text-align: center;
     margin: 0;
     padding: 200px;
-	background-image: url("1.jfif");
-	color: white;
+    background-image: url("1.jfif");
+    color: white;
 }
 
 h1 {
@@ -27,11 +27,10 @@ button {
     font-size: 16px;
     cursor: pointer;
     background-color: purple;
-    color: WHITE;
-    border: black;
+    color: white; /* corrected to lowercase */
+    border: 1px solid black; /* Specify border style, width, and color */
     border-radius: 5px;
-	text-align: center;
-
+    text-align: center;
 }
 
 button:hover {
