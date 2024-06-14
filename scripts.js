@@ -6,7 +6,7 @@ function checkAnswers() {
     var answer5 = document.getElementById("answer5").value.trim().toLowerCase();
 
     if (answer1 === "L" && answer2 === "U" && answer3 === "C" && answer4 === "K" && answer5 === "now") {
-        window.location.href = "https://cysx.000webhostapp.com/";
+        window.location.href = "https://ps26102010.github.io/rdrt1/";
     } else {
         alert("One or more answers are incorrect. Please try again.");
     }
